@@ -13,5 +13,5 @@ This project is a web-based benchmark tool designed to test encryption and decry
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/pawvan/go_dom.git
+   git clone https://github.com/pawvan/web_encrypt.git
    
